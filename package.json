@@ -1,0 +1,21 @@
+{
+  "name": "tanari-paymaster",
+  "version": "1.0.0",
+  "description": "ERC-4337 Sponsored Paymaster Demo",
+  "main": "index.js",
+  "scripts": {
+    "compile": "hardhat compile",
+    "test": "hardhat test",
+    "demo": "hardhat run scripts/demo.js",
+    "node": "hardhat node"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^4.0.0",
+    "hardhat": "^2.19.4"
+  },
+  "dependencies": {
+    "@account-abstraction/contracts": "^0.7.0",
+    "@openzeppelin/contracts": "^5.0.1",
+    "ethers": "^6.9.2"
+  }
+} 
