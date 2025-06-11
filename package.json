@@ -1,5 +1,5 @@
 {
-  "name": "tanari-paymaster",
+  "name": "EIP4337-paymaster",
   "version": "1.0.0",
   "description": "ERC-4337 Sponsored Paymaster Demo",
   "main": "index.js",
